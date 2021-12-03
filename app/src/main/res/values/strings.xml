@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieFlex</string>
+
+    <string name="movies">Movies</string>
+    <string name="tvshow">TV Show</string>
+
+    <string name="moviePopularTitle">Popular</string>
+    <string name="movieRatedTitle">Top Rated</string>
+    <string name="movieRecommendation">Recommendations</string>
+
+    <string name="tvPopularTitle">Popular</string>
+    <string name="tvRatedTitle">Top Rated</string>
+    <string name="tvRecommendation">Recommendations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
